@@ -1,0 +1,2 @@
+# Deep-Learning-s-Stochastic-Neural-Networks-for-Cryptocurrency-Price-Prediction
+We propose a stochastic neural network for cryptocurrency price prediction, using random walk theory to model market volatility. Unlike deterministic models, it incorporates randomness and market reaction learning, improving trend tracking. Tested on Bitcoin, Ethereum, and Litecoin, it outperforms traditional methods.
